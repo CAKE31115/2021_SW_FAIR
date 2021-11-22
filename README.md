@@ -10,7 +10,7 @@
 
 ##### 헬멧
 ![image](https://user-images.githubusercontent.com/34888425/142860403-a5cf80b8-46f5-496c-b282-1fbc8f2b2701.png)\
-![image](https://user-images.githubusercontent.com/34888425/142861585-7a379730-0f55-4ecf-a299-fb7b952959b0.png){: width="60%" height="60%"} \
+<img src="https://user-images.githubusercontent.com/34888425/142861585-7a379730-0f55-4ecf-a299-fb7b952959b0.png" width="50%" height="50%"> \
 헬멧부는 IR센서를 헬멧내부 양쪽에 위치하여 정기적으로 IR신호를 통해 헬멧 내부에 사용자의 머리가 들어왔는지 확인하여 킥보드에 전달해준다.
 
 
